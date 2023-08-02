@@ -1,7 +1,6 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import { lazy, Suspense } from 'react';
 import { ProductsPage } from './pages/ProductsPage';
-import { Header } from './Header';
 import App from './App';
 import { HomePage } from './pages/HomePage';
 import { ErrorPage } from './pages/ErrorPage';

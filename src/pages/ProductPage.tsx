@@ -1,6 +1,5 @@
 import { useParams } from 'react-router-dom';
 import { products } from '../data/products';
-import { profile } from 'console';
 
 type Params = {
     id: string;
